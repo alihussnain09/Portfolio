@@ -1,0 +1,24 @@
+.header{
+    display: flex;
+    height: 48px;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.logo{
+    
+    color: #6070FF;
+    font-size: 18px;
+    font-family: Poppins;
+    font-weight: 700;
+    line-height: 20px;
+    word-wrap: break-word
+}
+
+.menu-icon{
+
+    height: 24px;
+    width: 24px;
+}
+
