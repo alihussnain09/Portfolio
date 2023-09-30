@@ -66,7 +66,7 @@
   padding: 18px;
   gap: 88px;
   margin-top: 57px;
-} 
+}
 
 .card {
   display: flex;
@@ -76,7 +76,7 @@
   gap: 12px;
   border-radius: 16px;
   border: 1px solid var(--neutrals-n-40, #dfe1e6);
-  background: var(--neutrals-n-0, #fff);
+  background: var(--neutrals-n-0, #fff);
 }
 
 .snapshoot {
@@ -93,13 +93,13 @@
 }
 
 .cardtitle {
-  color: #172B4D;
+  color: #172b4d;
   font-size: 32px;
-  font-family: Poppins;
+  font-family: 'Poppins', sans-serif;
   font-weight: 700;
   line-height: 44px;
   margin: 0%;
-  word-wrap: break-word
+  word-wrap: break-word;
 }
 
 .Role {
@@ -107,15 +107,14 @@
   align-items: center;
   gap: 12px;
   list-style: none;
-  margin: 0px;
-  padding: 0px;
+  margin: 0;
+  padding: 0;
 }
 
 .counter {
   width: 8px;
   height: 18px;
   color: #c1c7d0;
-
 }
 
 li {
@@ -145,8 +144,8 @@ li {
   align-items: center;
   gap: 8px;
   list-style: none;
-  margin: 0px;
-  padding: 0px;
+  margin: 0;
+  padding: 0;
 }
 
 .lang {
@@ -163,7 +162,7 @@ li {
 
 .action {
   display: flex;
-  padding: 12px 169px 12px 0px;
+  padding: 12px 169px 12px 0;
   align-items: center;
 }
 
@@ -174,14 +173,14 @@ li {
   gap: 10px;
   border: 1px solid;
   background-color: white;
-  border-color:rgba(96, 112, 255, 1) ;
+  border-color: rgba(96, 112, 255, 1);
   border-radius: 8px;
-  color: var(--primary-b-500, #396DF2);
+  color: var(--primary-b-500, #396df2);
   text-align: center;
-  font-family: Poppins;
+  font-family: 'Poppins', sans-serif;
   font-size: 17px;
   font-style: normal;
   font-weight: 500;
-  line-height: 24px; 
+  line-height: 24px;
   letter-spacing: 0.51px;
 }
